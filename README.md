@@ -1,23 +1,27 @@
 # Project1
 
-## Description
-In this assignment I implemented my own data structures in Java.
 
-## Implemented classes
-- MyList
-- MyArrayList
-- MyLinkedList
-- MyStack
-- MyQueue
-- MyMinHeap
-- Main
+student: Jamalyeva Aziza MCS-2501
 
-## Details
-MyArrayList is based on array.
-MyLinkedList is a doubly linked list.
-MyStack is based on MyArrayList.
-MyQueue is based on MyLinkedList.
-MyMinHeap is based on MyArrayList.
+About project In this project I created my own data structures in Java without using java.util.
 
-## Testing
-All classes were tested in Main.java.
+I made:
+
+MyArrayList
+MyLinkedList
+MyStack
+MyQueue
+MyMinHeap
+Also I used interface MyList.
+
+What it does Program can:
+
+add elements
+remove elements
+get elements
+sort elements
+Stack works like last in first out. Queue works like first in first out. MinHeap keeps smallest element on top.
+
+How to run Open project in IntelliJ and run Main.java.
+
+This project helped me understand how data structures work inside.
